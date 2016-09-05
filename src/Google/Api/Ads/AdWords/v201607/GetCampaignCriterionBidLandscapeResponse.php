@@ -8,7 +8,6 @@
  * with this source code.
  */
 namespace Google\Api\Ads\AdWords\v201607;
-use Google\Api\Ads\AdWords\Lib\AdWordsSoapClient;
 
 
 /**
